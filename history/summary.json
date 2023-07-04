@@ -112,19 +112,19 @@
     "url": "https://onestop.seameosen.edu.my",
     "icon": "https://icons.duckduckgo.com/ip3/onestop.seameosen.edu.my.ico",
     "slug": "seameo-sen-onestop-management-system",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1082,
-    "timeDay": 980,
-    "timeWeek": 1073,
-    "timeMonth": 1082,
-    "timeYear": 1082,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "98.76%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 1086,
+    "timeDay": 1039,
+    "timeWeek": 1082,
+    "timeMonth": 1086,
+    "timeYear": 1086,
     "dailyMinutesDown": {
-      "2023-07-04": 0
+      "2023-07-04": 18
     }
   }
 ]
