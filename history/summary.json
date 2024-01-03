@@ -4,19 +4,19 @@
     "url": "https://seameosen.edu.my",
     "icon": "https://icons.duckduckgo.com/ip3/seameosen.edu.my.ico",
     "slug": "main-site",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.80%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 623,
-    "timeDay": 813,
-    "timeWeek": 936,
-    "timeMonth": 970,
-    "timeYear": 623,
+    "time": 626,
+    "timeDay": 969,
+    "timeWeek": 959,
+    "timeMonth": 975,
+    "timeYear": 626,
     "dailyMinutesDown": {
-      "2024-01-03": 3
+      "2024-01-03": 7
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://icse.seameosen.edu.my",
     "icon": "https://icons.duckduckgo.com/ip3/icse.seameosen.edu.my.ico",
     "slug": "international-conference-on-special-education-site",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 998,
-    "timeDay": 828,
-    "timeWeek": 955,
-    "timeMonth": 975,
-    "timeYear": 998,
+    "time": 1000,
+    "timeDay": 1012,
+    "timeWeek": 985,
+    "timeMonth": 982,
+    "timeYear": 1000,
     "dailyMinutesDown": {
-      "2024-01-03": 1
+      "2024-01-03": 6
     }
   },
   {
