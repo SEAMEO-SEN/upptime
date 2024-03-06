@@ -22,19 +22,19 @@
     "url": "https://icse.seameosen.edu.my",
     "icon": "https://icons.duckduckgo.com/ip3/icse.seameosen.edu.my.ico",
     "slug": "international-conference-on-special-education-site",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 997,
-    "timeDay": 1170,
-    "timeWeek": 1015,
-    "timeMonth": 983,
-    "timeYear": 997,
+    "time": 1027,
+    "timeDay": 4618,
+    "timeWeek": 1896,
+    "timeMonth": 1219,
+    "timeYear": 1027,
     "dailyMinutesDown": {
-      "2024-03-06": 1
+      "2024-03-06": 7
     }
   },
   {
