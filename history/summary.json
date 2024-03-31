@@ -4,19 +4,19 @@
     "url": "https://seameosen.edu.my",
     "icon": "https://icons.duckduckgo.com/ip3/seameosen.edu.my.ico",
     "slug": "main-site",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 767,
-    "timeDay": 1160,
-    "timeWeek": 935,
-    "timeMonth": 1125,
-    "timeYear": 767,
+    "time": 768,
+    "timeDay": 1097,
+    "timeWeek": 948,
+    "timeMonth": 1123,
+    "timeYear": 768,
     "dailyMinutesDown": {
-      "2024-03-31": 0
+      "2024-03-31": 8
     }
   },
   {
