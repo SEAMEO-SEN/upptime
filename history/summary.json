@@ -60,19 +60,19 @@
     "url": "https://library.seameosen.edu.my",
     "icon": "https://icons.duckduckgo.com/ip3/library.seameosen.edu.my.ico",
     "slug": "seameo-sen-library",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.89%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 1120,
-    "timeDay": 892,
-    "timeWeek": 959,
-    "timeMonth": 815,
-    "timeYear": 1120,
+    "time": 1171,
+    "timeDay": 8214,
+    "timeWeek": 2781,
+    "timeMonth": 1275,
+    "timeYear": 1171,
     "dailyMinutesDown": {
-      "2024-04-27": 0
+      "2024-04-27": 16
     }
   },
   {
