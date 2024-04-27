@@ -4,11 +4,11 @@
     "url": "https://seameosen.edu.my",
     "icon": "https://icons.duckduckgo.com/ip3/seameosen.edu.my.ico",
     "slug": "main-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 813,
     "timeDay": 4189,
@@ -16,7 +16,7 @@
     "timeMonth": 1183,
     "timeYear": 813,
     "dailyMinutesDown": {
-      "2024-04-27": 10
+      "2024-04-27": 3
     }
   },
   {
@@ -114,9 +114,9 @@
     "url": "https://onestop.seameosen.edu.my",
     "icon": "https://icons.duckduckgo.com/ip3/onestop.seameosen.edu.my.ico",
     "slug": "seameo-sen-onestop-management-system",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -126,6 +126,7 @@
     "timeMonth": 1325,
     "timeYear": 1331,
     "dailyMinutesDown": {
+      "2024-04-27": 0,
       "2023-07-04": 18
     }
   }
