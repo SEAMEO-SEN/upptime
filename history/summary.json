@@ -60,9 +60,9 @@
     "url": "https://library.seameosen.edu.my",
     "icon": "https://icons.duckduckgo.com/ip3/library.seameosen.edu.my.ico",
     "slug": "seameo-sen-library",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -71,7 +71,9 @@
     "timeWeek": 959,
     "timeMonth": 815,
     "timeYear": 1120,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-27": 0
+    }
   },
   {
     "name": "SEAMEO SEN Publication",
@@ -115,18 +117,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/onestop.seameosen.edu.my.ico",
     "slug": "seameo-sen-onestop-management-system",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.02%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1395,
     "timeDay": 10644,
     "timeWeek": 3765,
     "timeMonth": 1901,
     "timeYear": 1395,
     "dailyMinutesDown": {
-      "2024-04-27": 14,
       "2023-07-04": 18
     }
   }
