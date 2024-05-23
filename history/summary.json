@@ -98,19 +98,19 @@
     "url": "https://sies.seameosen.edu.my",
     "icon": "https://icons.duckduckgo.com/ip3/sies.seameosen.edu.my.ico",
     "slug": "seameo-sen-integrated-excellence-system",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.82%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 964,
-    "timeDay": 930,
-    "timeWeek": 891,
-    "timeMonth": 849,
-    "timeYear": 964,
+    "time": 963,
+    "timeDay": 822,
+    "timeWeek": 859,
+    "timeMonth": 841,
+    "timeYear": 963,
     "dailyMinutesDown": {
-      "2024-05-23": 0
+      "2024-05-23": 17
     }
   },
   {
